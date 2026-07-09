@@ -291,11 +291,7 @@ hydroponic-greenhouse-automation/
 │
 ├── README.md
 ├── docs/
-│   ├── architecture.png
-│   ├── plc_logic.png
-│   ├── pid_control.png
-│   ├── workflow.png
-│   └── scada_screen.png
+│   ├── "Project Reports"
 │
 ├── images/
 │   ├── greenhouse.jpg
